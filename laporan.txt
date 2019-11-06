@@ -1,18 +1,7 @@
 ini laporan kedua
 ini laporan ketiga
-<<<<<<< HEAD
-<<<<<<< HEAD
 yang pertama saya hapus
 ini yang saya ubah
-=======
 yang pertama saya hapus	
 di karenakan file rusak atau elor
 oke
->>>>>>> hilmiabdulazisf/master
-=======
-
-yang pertama saya hapus	
-di karenakan file rusak atau elor
-oke
-
->>>>>>> 0deb2f373960d49838b58ec533b1a1af008f0537
