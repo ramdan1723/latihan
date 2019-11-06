@@ -1,4 +1,10 @@
 ini laporan kedua
 ini laporan ketiga
+<<<<<<< HEAD
 yang pertama saya hapus
 ini yang saya ubah
+=======
+yang pertama saya hapus	
+di karenakan file rusak atau elor
+oke
+>>>>>>> hilmiabdulazisf/master
